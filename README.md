@@ -20,4 +20,4 @@ O site de aniversário foi projetado para criar um ambiente festivo e interativo
 - **Acessibilidade**: O site é responsivo, garantindo que os visitantes possam acessar e desfrutar da experiência de qualquer dispositivo, seja desktop ou móvel.
 
 ## Como Visualizar
-Você pode visualizar o projeto ao vivo através do [link](https://ebac-e17.vercel.app)).
+Você pode visualizar o projeto ao vivo através do [link](https://ebac-e17.vercel.app).
