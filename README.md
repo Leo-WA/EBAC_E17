@@ -1,7 +1,7 @@
 # Projeto 03: Site de Aniversário
 
 ## Link do Projeto
-[Site de Aniversário](https://ebac-e17.vercel.app))
+[Site de Aniversário](https://ebac-e17.vercel.app)
 
 ## Sobre o Projeto
 Este projeto é um site comemorativo desenvolvido para celebrar um aniversário especial. O site oferece uma experiência interativa e memorável para os visitantes, permitindo-lhes participar das comemorações de maneira envolvente.
